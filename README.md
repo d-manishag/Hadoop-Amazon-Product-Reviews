@@ -1,5 +1,7 @@
 # Hadoop Amazon Product Reviews - on Google Cloud Platform
 
+Hadoop MapReduce used to gain insightful information from Amazon product reviews. This project is based on the sentiment of the sentences mentioning the product features. Thus it leverage the use of NLP for sentiment analysis and the distributed file systems for big data processing
+
 <img width="1029" alt="Screen Shot 2023-07-12 at 10 52 21 PM" src="https://github.com/d-manishag/Hadoop-Amazon-Product-Reviews/assets/138808132/7b980278-8567-4071-826d-e819621419dd">
 
 ## Requirements
