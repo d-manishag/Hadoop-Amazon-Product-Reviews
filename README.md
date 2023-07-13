@@ -36,7 +36,7 @@ TextBlob is used for this purpose.
 a) Configuring Multi Node Hadoop Cluster on Google Cloud
 - Use Dataproc to create three computer instances
 - To run Hadoop jobs
-- 
+  
 b) In GCP Console
 - Create bucket for cloud storage
 
@@ -64,3 +64,6 @@ Outputting the sentiment scores for the top features of each product as a format
 
 5. **Run Your Job**: Run your Hadoop streaming job with mapper.py as the mapper script and reducer.py as the reducer script. The scripts will read your input data, process it, and write the output to your specified output directory.
 
+## HIVE 
+Hive is built on top of Apache Hadoop, which is an open-source framework used to efficiently store and process large datasets. As a result, Hive is closely integrated with Hadoop, and is designed to work quickly on petabytes of data.
+Here HIVE helps perform ETL functionality helping to extract insights!
