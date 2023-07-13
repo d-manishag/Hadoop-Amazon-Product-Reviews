@@ -1,5 +1,7 @@
 # Hadoop Amazon Product Reviews - on Google Cloud Platform
 
+<img width="1029" alt="Screen Shot 2023-07-12 at 10 52 21 PM" src="https://github.com/d-manishag/Hadoop-Amazon-Product-Reviews/assets/138808132/7b980278-8567-4071-826d-e819621419dd">
+
 ## Requirements
 - Python 3.6 or higher
 - Hadoop 2.7 or higher: For Hadoop Cluster 
@@ -67,3 +69,13 @@ Outputting the sentiment scores for the top features of each product as a format
 ## HIVE 
 Hive is built on top of Apache Hadoop, which is an open-source framework used to efficiently store and process large datasets. As a result, Hive is closely integrated with Hadoop, and is designed to work quickly on petabytes of data.
 Here HIVE helps perform ETL functionality helping to extract insights!
+
+
+![Picture1](https://github.com/d-manishag/Hadoop-Amazon-Product-Reviews/assets/138808132/cc707c1d-dc06-41c6-9d08-314aef521782)
+![Picture2](https://github.com/d-manishag/Hadoop-Amazon-Product-Reviews/assets/138808132/1a4e877a-0e8a-46e6-a18d-b7bff5223572)
+![Picture3](https://github.com/d-manishag/Hadoop-Amazon-Product-Reviews/assets/138808132/1bb4f932-3de1-4d46-8e07-3c243915cc99)
+
+
+![Picture4](https://github.com/d-manishag/Hadoop-Amazon-Product-Reviews/assets/138808132/2f9e9123-4926-4329-97ec-6f2468351028)
+
+
