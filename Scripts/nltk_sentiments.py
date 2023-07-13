@@ -124,4 +124,4 @@ def mapper_reducer(input_file_path, output_file_path):
         f.write(json.dumps(results, indent=4))
 
 # Run the combined script on the input data
-mapper_reducer("/Users/vivek/Desktop/waste/input_file.json", "output_file.json")
+mapper_reducer("input_file.json", "output_file.json")
